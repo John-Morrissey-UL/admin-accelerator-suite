@@ -1,8 +1,7 @@
 # Admin Accelerator Suite (Brightspace / D2L)
 
 A single self-contained HTML file that adds four time-saving admin tools to any Brightspace (D2L)
-course, behind one launcher. Built on Brightspace's own API, so it works on any instance — nothing
-is hardcoded to a particular school.
+course, behind one launcher. Built on Brightspace's own API, so it works on any instance.
 
 ## Tools
 
@@ -22,7 +21,6 @@ build step and nothing else to upload.
 <!-- Add a screenshot to docs/launcher.png and it will show here -->
 ![Admin Accelerator launcher](docs/launcher.png)
 
-*(Drop a screenshot at `docs/launcher.png` — e.g. the launcher on a course homepage — to display it here.)*
 
 ## How it works
 
@@ -45,7 +43,7 @@ Open the file in a plain-text editor, select all, and copy.
 
 ### Option A — Course content page
 
-1. **Content → New → Create a File.**
+1. **Content → New → Create a Page.**
 2. Switch the HTML editor to **source / code view** (`</>`).
 3. Paste the full file source and **Save**.
 4. Open the topic — the launcher appears and detects the current course automatically.
